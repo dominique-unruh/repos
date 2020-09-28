@@ -280,6 +280,7 @@
 - dmarticus/scala-games
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
+- dominique-unruh/scala-isabelle
 - dusan0098/Scalafix_FP_workshop
 - dwijnand/sbt-compat
 - dwijnand/sbt-dynver
